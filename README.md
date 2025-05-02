@@ -11,7 +11,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Ayushx309/codemetrix?style=social)](https://github.com/Ayushx309/codemetrix/stargazers)
 [![Follow](https://img.shields.io/github/followers/Ayushx309?style=social)](https://github.com/Ayushx309)
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation) • [Contributing](#contributing)
+
 
 </div>
 
