@@ -1,0 +1,7 @@
+rich>=13.0.0
+colorama>=0.4.6
+argparse>=1.4.0
+pygments>=2.10.0
+networkx>=3.1
+typing-extensions>=4.5.0
+dataclasses>=0.6 
