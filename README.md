@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - COCOMO II model research papers
 - Function Point Analysis methodology
 
-## 👨‍�� Author
+## Author
 
 **Ayush**
 - GitHub: [@Ayushx309](https://github.com/Ayushx309)
